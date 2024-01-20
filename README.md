@@ -7,3 +7,6 @@ the keyboard is self explainatory. type stuff press start or circle.
 int editing is up down left and right, and press start or circle. 
 
 If you feel you dont like your database entries, format flash1 to restore a stock registry.
+
+You can now set your np env var to sp-int, prod-qa or which ever variable you prefer.
+
